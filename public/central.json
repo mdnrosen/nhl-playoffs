@@ -1,0 +1,2575 @@
+[
+  {
+    "details": {
+      "code": "CHI",
+      "name": "Chicago Blackhawks",
+      "division": "Central",
+      "conference": "Western",
+      "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
+      "primaryColor": "#CF0A2C",
+      "secondaryColor": "#000000",
+      "accentColor": "#FFFFFF",
+      "seriesWins": 16
+    },
+    "seasons": [
+      {
+        "year": "05/06",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "06/07",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "07/08",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "08/09",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "CGY",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "VAN",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "DET",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "09/10",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "NSH",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "VAN",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "SJS",
+            "wins": 4,
+            "losses": 0,
+            "result": "win"
+          },
+          {
+            "round": "F",
+            "opponent": "PHI",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": true
+      },
+      {
+        "year": "10/11",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "VAN",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "11/12",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "ARI",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "12/13",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "MIN",
+            "wins": 4,
+            "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "DET",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "LAK",
+            "wins": 4,
+            "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "F",
+            "opponent": "BOS",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": true,
+        "stanleyCup": true
+      },
+      {
+        "year": "13/14",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "STL",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "MIN",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "LAK",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "14/15",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "NSH",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "MIN",
+            "wins": 4,
+            "losses": 0,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "ANA",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "F",
+            "opponent": "TBL",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": true
+      },
+      {
+        "year": "15/16",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "STL",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "16/17",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "NSH",
+            "wins": 0,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "17/18",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "18/19",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "19/20",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "VGK",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "20/21",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "21/22",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "22/23",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "23/24",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "24/25",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "25/26",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      }
+    ]
+  },
+  {
+    "details": {
+      "code": "DAL",
+      "name": "Dallas Stars",
+      "division": "Central",
+      "conference": "Western",
+      "logo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
+      "primaryColor": "#006847",
+      "secondaryColor": "#8F8F8C",
+      "accentColor": "#FFFFFF",
+      "seriesWins": 16
+    },
+    "seasons": [
+      {
+        "year": "05/06",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "COL",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "06/07",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "VAN",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "07/08",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "ANA",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "SJS",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "DET",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "08/09",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "09/10",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "10/11",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "11/12",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "12/13",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "13/14",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "ANA",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "14/15",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "15/16",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "MIN",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "STL",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "16/17",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "17/18",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "18/19",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "NSH",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "STL",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "19/20",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "CGY",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "COL",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "VGK",
+            "wins": 4,
+            "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "F",
+            "opponent": "TBL",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "20/21",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "21/22",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "CGY",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "22/23",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "MIN",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "SEA",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "VGK",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "23/24",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "VGK",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "COL",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "EDM",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "24/25",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "COL",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "WPG",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "EDM",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "25/26",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "MIN",
+            "wins": 1,
+            "losses": 1,
+            "result": "pending"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      }
+    ]
+  },
+  {
+    "details": {
+      "code": "COL",
+      "name": "Colorado Avalanche",
+      "division": "Central",
+      "conference": "Western",
+      "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+      "primaryColor": "#6F263D",
+      "secondaryColor": "#236192",
+      "accentColor": "#FFFFFF",
+      "seriesWins": 10
+    },
+    "seasons": [
+      {
+        "year": "05/06",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "DAL",
+            "wins": 4,
+            "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "ANA",
+            "wins": 0,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "06/07",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "07/08",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "MIN",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "DET",
+            "wins": 0,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "08/09",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "09/10",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "SJS",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "10/11",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "11/12",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "12/13",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "13/14",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "MIN",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "14/15",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "15/16",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "16/17",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "17/18",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "NSH",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "18/19",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "CGY",
+            "wins": 4,
+            "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "SJS",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "19/20",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "ARI",
+            "wins": 4,
+            "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "DAL",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "20/21",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "STL",
+            "wins": 4,
+            "losses": 0,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "VGK",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": true,
+        "stanleyCup": false
+      },
+      {
+        "year": "21/22",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "NSH",
+            "wins": 4,
+            "losses": 0,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "STL",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "EDM",
+            "wins": 4,
+            "losses": 0,
+            "result": "win"
+          },
+          {
+            "round": "F",
+            "opponent": "TBL",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": true
+      },
+      {
+        "year": "22/23",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "SEA",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "23/24",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "WPG",
+            "wins": 4,
+            "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "DAL",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "24/25",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "DAL",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "25/26",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "LAK",
+            "wins": 1,
+            "losses": 0,
+            "result": "pending"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": true,
+        "stanleyCup": false
+      }
+    ]
+  },
+  {
+    "details": {
+      "code": "STL",
+      "name": "St. Louis Blues",
+      "division": "Central",
+      "conference": "Western",
+      "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
+      "primaryColor": "#002F87",
+      "secondaryColor": "#FCB514",
+      "accentColor": "#FFFFFF",
+      "seriesWins": 9
+    },
+    "seasons": [
+      {
+        "year": "05/06",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "06/07",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "07/08",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "08/09",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "VAN",
+            "wins": 0,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "09/10",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "10/11",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "11/12",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "SJS",
+            "wins": 4,
+            "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "LAK",
+            "wins": 0,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "12/13",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "LAK",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "13/14",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "CHI",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "14/15",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "MIN",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "15/16",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "CHI",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "DAL",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "SJS",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "16/17",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "MIN",
+            "wins": 4,
+            "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "NSH",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "17/18",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "18/19",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "WPG",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "DAL",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "SJS",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "F",
+            "opponent": "BOS",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": true
+      },
+      {
+        "year": "19/20",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "VAN",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "20/21",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "COL",
+            "wins": 0,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "21/22",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "MIN",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "COL",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "22/23",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "23/24",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "24/25",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "WPG",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "25/26",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      }
+    ]
+  },
+  {
+    "details": {
+      "code": "NSH",
+      "name": "Nashville Predators",
+      "division": "Central",
+      "conference": "Western",
+      "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
+      "primaryColor": "#FFB81C",
+      "secondaryColor": "#041E42",
+      "accentColor": "#041E42",
+      "seriesWins": 7
+    },
+    "seasons": [
+      {
+        "year": "05/06",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "SJS",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "06/07",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "SJS",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "07/08",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "DET",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "08/09",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "09/10",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "CHI",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "10/11",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "ANA",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "VAN",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "11/12",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "DET",
+            "wins": 4,
+            "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "ARI",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "12/13",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "13/14",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "14/15",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "CHI",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "15/16",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "ANA",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "SJS",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "16/17",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "CHI",
+            "wins": 4,
+            "losses": 0,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "STL",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "ANA",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "F",
+            "opponent": "PIT",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "17/18",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "COL",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "WPG",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": true,
+        "stanleyCup": false
+      },
+      {
+        "year": "18/19",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "DAL",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "19/20",
+        "qualified": true,
+        "rounds": [],
+        "notes": "Lost in qualifying round",
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "20/21",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "CAR",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "21/22",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "COL",
+            "wins": 0,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "22/23",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "23/24",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "VAN",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "24/25",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "25/26",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      }
+    ]
+  },
+  {
+    "details": {
+      "code": "MIN",
+      "name": "Minnesota Wild",
+      "division": "Central",
+      "conference": "Western",
+      "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
+      "primaryColor": "#154734",
+      "secondaryColor": "#DDCBA4",
+      "accentColor": "#EAAA00",
+      "seriesWins": 2
+    },
+    "seasons": [
+      {
+        "year": "05/06",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "06/07",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "ANA",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "07/08",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "COL",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "08/09",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "09/10",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "10/11",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "11/12",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "12/13",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "CHI",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "13/14",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "COL",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "CHI",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "14/15",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "STL",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "CHI",
+            "wins": 0,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "15/16",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "DAL",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "16/17",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "STL",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "17/18",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "WPG",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "18/19",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "19/20",
+        "qualified": true,
+        "rounds": [],
+        "notes": "Lost in qualifying round",
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "20/21",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "VGK",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "21/22",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "STL",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "22/23",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "DAL",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "23/24",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "24/25",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "VGK",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "25/26",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "DAL",
+            "wins": 1,
+            "losses": 1,
+            "result": "pending"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      }
+    ]
+  },
+  {
+    "details": {
+      "code": "WPG",
+      "name": "Winnipeg Jets / Atlanta Thrashers",
+      "division": "Central",
+      "conference": "Western",
+      "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+      "primaryColor": "#041E42",
+      "secondaryColor": "#AC162C",
+      "accentColor": "#FFFFFF",
+      "seriesWins": 4
+    },
+    "seasons": [
+      {
+        "year": "05/06",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "06/07",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "NYR",
+            "wins": 0,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "07/08",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "08/09",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "09/10",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "10/11",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "11/12",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "12/13",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "13/14",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "14/15",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "ANA",
+            "wins": 0,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "15/16",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "16/17",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "17/18",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "MIN",
+            "wins": 4,
+            "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "NSH",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "VGK",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "18/19",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "STL",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "19/20",
+        "qualified": true,
+        "rounds": [],
+        "notes": "Lost in qualifying round",
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "20/21",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "EDM",
+            "wins": 4,
+            "losses": 0,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "MTL",
+            "wins": 0,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "21/22",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "22/23",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "VGK",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "23/24",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "COL",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "24/25",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "STL",
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "DAL",
+            "wins": 2,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": true,
+        "stanleyCup": false
+      },
+      {
+        "year": "25/26",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      }
+    ]
+  },
+  {
+    "details": {
+      "code": "ARI",
+      "name": "Phoenix / Arizona Coyotes",
+      "division": "Central",
+      "conference": "Western",
+      "logo": "https://assets.nhle.com/logos/nhl/svg/ARI_light.svg",
+      "primaryColor": "#8C2633",
+      "secondaryColor": "#E2D6B5",
+      "accentColor": "#FFFFFF",
+      "seriesWins": 2
+    },
+    "seasons": [
+      {
+        "year": "05/06",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "06/07",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "07/08",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "08/09",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "09/10",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "DET",
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "10/11",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "DET",
+            "wins": 0,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "11/12",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "CHI",
+            "wins": 4,
+            "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "NSH",
+            "wins": 4,
+            "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "LAK",
+            "wins": 1,
+            "losses": 4,
+            "result": "loss"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "12/13",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "13/14",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "14/15",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "15/16",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "16/17",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "17/18",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "18/19",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "19/20",
+        "qualified": true,
+        "rounds": [],
+        "notes": "Lost in qualifying round",
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "20/21",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "21/22",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "22/23",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "23/24",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      }
+    ]
+  },
+  {
+    "details": {
+      "code": "UTA",
+      "name": "Utah Hockey Club",
+      "division": "Central",
+      "conference": "Western",
+      "logo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg",
+      "primaryColor": "#69B3E7",
+      "secondaryColor": "#000000",
+      "accentColor": "#FFFFFF",
+      "seriesWins": 0
+    },
+    "seasons": [
+      {
+        "year": "24/25",
+        "qualified": false,
+        "rounds": [],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      },
+      {
+        "year": "25/26",
+        "qualified": true,
+        "rounds": [
+          {
+            "round": "R1",
+            "opponent": "VGK",
+            "wins": 0,
+            "losses": 1,
+            "result": "pending"
+          }
+        ],
+        "notes": null,
+        "presidentsTrophy": false,
+        "stanleyCup": false
+      }
+    ]
+  }
+]
