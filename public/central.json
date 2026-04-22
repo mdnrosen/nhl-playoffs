@@ -1062,7 +1062,7 @@
           {
             "round": "R1",
             "opponent": "LAK",
-            "wins": 1,
+            "wins": 2,
             "losses": 0,
             "result": "pending"
           }
@@ -2561,7 +2561,7 @@
           {
             "round": "R1",
             "opponent": "VGK",
-            "wins": 0,
+            "wins": 1,
             "losses": 1,
             "result": "pending"
           }
