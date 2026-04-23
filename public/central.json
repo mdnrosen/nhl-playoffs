@@ -712,7 +712,7 @@
           {
             "round": "R1",
             "opponent": "MIN",
-            "wins": 1,
+            "wins": 2,
             "losses": 1,
             "result": "pending"
           }
@@ -2043,7 +2043,7 @@
             "round": "R1",
             "opponent": "DAL",
             "wins": 1,
-            "losses": 1,
+            "losses": 2,
             "result": "pending"
           }
         ],

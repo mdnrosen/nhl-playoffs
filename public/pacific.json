@@ -712,7 +712,7 @@
             "round": "R1",
             "opponent": "ANA",
             "wins": 1,
-            "losses": 0,
+            "losses": 1,
             "result": "pending"
           }
         ],
@@ -2280,7 +2280,7 @@
           {
             "round": "R1",
             "opponent": "EDM",
-            "wins": 0,
+            "wins": 1,
             "losses": 1,
             "result": "pending"
           }
