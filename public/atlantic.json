@@ -841,7 +841,7 @@
             "round": "R1",
             "opponent": "BUF",
             "wins": 1,
-            "losses": 1,
+            "losses": 2,
             "result": "pending"
           }
         ],
@@ -1669,7 +1669,7 @@
           {
             "round": "R1",
             "opponent": "BOS",
-            "wins": 1,
+            "wins": 2,
             "losses": 1,
             "result": "pending"
           }
@@ -2680,7 +2680,7 @@
             "round": "R1",
             "opponent": "CAR",
             "wins": 0,
-            "losses": 2,
+            "losses": 3,
             "result": "pending"
           }
         ],
