@@ -418,7 +418,7 @@
           {
             "round": "R1",
             "opponent": "PHI",
-            "wins": 0,
+            "wins": 1,
             "losses": 3,
             "result": "pending"
           }
@@ -779,9 +779,9 @@
           {
             "round": "R1",
             "opponent": "OTT",
-            "wins": 3,
+            "wins": 4,
             "losses": 0,
-            "result": "pending"
+            "result": "win"
           }
         ],
         "notes": null,
@@ -1888,7 +1888,7 @@
             "round": "R1",
             "opponent": "PIT",
             "wins": 3,
-            "losses": 0,
+            "losses": 1,
             "result": "pending"
           }
         ],

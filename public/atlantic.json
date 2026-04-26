@@ -2680,8 +2680,8 @@
             "round": "R1",
             "opponent": "CAR",
             "wins": 0,
-            "losses": 3,
-            "result": "pending"
+            "losses": 4,
+            "result": "loss"
           }
         ],
         "notes": null,
