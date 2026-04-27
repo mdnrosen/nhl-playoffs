@@ -417,8 +417,8 @@
           {
             "round": "R1",
             "opponent": "MTL",
-            "wins": 1,
-            "losses": 1,
+            "wins": 2,
+            "losses": 2,
             "result": "pending"
           }
         ],
@@ -841,7 +841,7 @@
             "round": "R1",
             "opponent": "BUF",
             "wins": 1,
-            "losses": 2,
+            "losses": 3,
             "result": "pending"
           }
         ],
@@ -1669,7 +1669,7 @@
           {
             "round": "R1",
             "opponent": "BOS",
-            "wins": 2,
+            "wins": 3,
             "losses": 1,
             "result": "pending"
           }
@@ -2367,8 +2367,8 @@
           {
             "round": "R1",
             "opponent": "TBL",
-            "wins": 1,
-            "losses": 1,
+            "wins": 2,
+            "losses": 2,
             "result": "pending"
           }
         ],
