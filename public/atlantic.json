@@ -840,7 +840,7 @@
           {
             "round": "R1",
             "opponent": "BUF",
-            "wins": 1,
+            "wins": 2,
             "losses": 3,
             "result": "pending"
           }
@@ -1670,7 +1670,7 @@
             "round": "R1",
             "opponent": "BOS",
             "wins": 3,
-            "losses": 1,
+            "losses": 2,
             "result": "pending"
           }
         ],
