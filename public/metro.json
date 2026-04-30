@@ -782,6 +782,13 @@
             "wins": 4,
             "losses": 0,
             "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "PHI",
+            "wins": 0,
+            "losses": 0,
+            "result": "pending"
           }
         ],
         "notes": null,
@@ -1890,6 +1897,13 @@
             "wins": 4,
             "losses": 2,
             "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "CAR",
+            "wins": 0,
+            "losses": 0,
+            "result": "pending"
           }
         ],
         "notes": null,
