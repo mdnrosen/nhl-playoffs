@@ -712,8 +712,8 @@
             "round": "R1",
             "opponent": "ANA",
             "wins": 2,
-            "losses": 3,
-            "result": "pending"
+            "losses": 4,
+            "result": "loss"
           }
         ],
         "notes": null,
@@ -2280,8 +2280,15 @@
           {
             "round": "R1",
             "opponent": "EDM",
-            "wins": 3,
+            "wins": 4,
             "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "TBC",
+            "wins": 0,
+            "losses": 0,
             "result": "pending"
           }
         ],
