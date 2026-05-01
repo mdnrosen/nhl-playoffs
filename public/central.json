@@ -713,8 +713,8 @@
             "round": "R1",
             "opponent": "MIN",
             "wins": 2,
-            "losses": 3,
-            "result": "pending"
+            "losses": 4,
+            "result": "loss"
           }
         ],
         "notes": null,
@@ -1068,7 +1068,7 @@
           },
           {
             "round": "R2",
-            "opponent": "TBC",
+            "opponent": "MIN",
             "wins": 0,
             "losses": 0,
             "result": "pending"
@@ -2049,8 +2049,15 @@
           {
             "round": "R1",
             "opponent": "DAL",
-            "wins": 3,
+            "wins": 4,
             "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "COL",
+            "wins": 0,
+            "losses": 0,
             "result": "pending"
           }
         ],
