@@ -732,7 +732,7 @@
       "primaryColor": "#B4975A",
       "secondaryColor": "#333F42",
       "accentColor": "#FFFFFF",
-      "seriesWins": 12
+      "seriesWins": 13
     },
     "seasons": [
       {
@@ -939,8 +939,15 @@
           {
             "round": "R1",
             "opponent": "UTA",
-            "wins": 3,
+            "wins": 4,
             "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "ANA",
+            "wins": 0,
+            "losses": 0,
             "result": "pending"
           }
         ],
@@ -1945,7 +1952,7 @@
       "primaryColor": "#F47A38",
       "secondaryColor": "#B9975B",
       "accentColor": "#000000",
-      "seriesWins": 12
+      "seriesWins": 13
     },
     "seasons": [
       {
@@ -2282,6 +2289,13 @@
             "opponent": "EDM",
             "wins": 4,
             "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "VGK",
+            "wins": 0,
+            "losses": 0,
             "result": "win"
           },
           {

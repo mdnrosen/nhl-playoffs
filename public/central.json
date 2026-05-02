@@ -733,7 +733,7 @@
       "primaryColor": "#6F263D",
       "secondaryColor": "#236192",
       "accentColor": "#FFFFFF",
-      "seriesWins": 10
+      "seriesWins": 11
     },
     "seasons": [
       {
@@ -1769,7 +1769,7 @@
       "primaryColor": "#154734",
       "secondaryColor": "#DDCBA4",
       "accentColor": "#EAAA00",
-      "seriesWins": 2
+      "seriesWins": 3
     },
     "seasons": [
       {
@@ -2576,8 +2576,8 @@
             "round": "R1",
             "opponent": "VGK",
             "wins": 2,
-            "losses": 3,
-            "result": "pending"
+            "losses": 4,
+            "result": "loss"
           }
         ],
         "notes": null,

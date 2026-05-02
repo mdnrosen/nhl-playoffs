@@ -439,7 +439,7 @@
       "primaryColor": "#CC0000",
       "secondaryColor": "#000000",
       "accentColor": "#A2AAAD",
-      "seriesWins": 15
+      "seriesWins": 16
     },
     "seasons": [
       {
@@ -1588,7 +1588,7 @@
       "primaryColor": "#F74902",
       "secondaryColor": "#000000",
       "accentColor": "#FFFFFF",
-      "seriesWins": 8
+      "seriesWins": 9
     },
     "seasons": [
       {

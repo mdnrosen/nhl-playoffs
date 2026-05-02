@@ -417,7 +417,7 @@
           {
             "round": "R1",
             "opponent": "MTL",
-            "wins": 2,
+            "wins": 3,
             "losses": 3,
             "result": "pending"
           }
@@ -841,8 +841,8 @@
             "round": "R1",
             "opponent": "BUF",
             "wins": 2,
-            "losses": 3,
-            "result": "pending"
+            "losses": 4,
+            "result": "loss"
           }
         ],
         "notes": null,
@@ -1439,7 +1439,7 @@
       "primaryColor": "#002654",
       "secondaryColor": "#FCB514",
       "accentColor": "#FFFFFF",
-      "seriesWins": 4
+      "seriesWins": 5
     },
     "seasons": [
       {
@@ -1669,8 +1669,15 @@
           {
             "round": "R1",
             "opponent": "BOS",
-            "wins": 3,
+            "wins": 4,
             "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "TBC",
+            "wins": 0,
+            "losses": 0,
             "result": "pending"
           }
         ],
@@ -2368,7 +2375,7 @@
             "round": "R1",
             "opponent": "TBL",
             "wins": 3,
-            "losses": 2,
+            "losses": 3,
             "result": "pending"
           }
         ],
