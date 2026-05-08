@@ -786,7 +786,7 @@
           {
             "round": "R2",
             "opponent": "PHI",
-            "wins": 1,
+            "wins": 3,
             "losses": 0,
             "result": "pending"
           }
@@ -1902,7 +1902,7 @@
             "round": "R2",
             "opponent": "CAR",
             "wins": 0,
-            "losses": 1,
+            "losses": 3,
             "result": "pending"
           }
         ],

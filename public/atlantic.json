@@ -1676,7 +1676,7 @@
           {
             "round": "R2",
             "opponent": "MTL",
-            "wins": 0,
+            "wins": 1,
             "losses": 0,
             "result": "pending"
           }
@@ -2381,7 +2381,7 @@
           {
             "round": "R2",
             "opponent": "BUF",
-            "wins": 0,
+            "wins": 1,
             "losses": 0,
             "result": "pending"
           }

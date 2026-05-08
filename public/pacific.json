@@ -946,8 +946,8 @@
           {
             "round": "R2",
             "opponent": "ANA",
-            "wins": 0,
-            "losses": 0,
+            "wins": 1,
+            "losses": 1,
             "result": "pending"
           }
         ],
@@ -2294,16 +2294,9 @@
           {
             "round": "R2",
             "opponent": "VGK",
-            "wins": 0,
-            "losses": 0,
+            "wins": 1,
+            "losses": 1,
             "result": "win"
-          },
-          {
-            "round": "R2",
-            "opponent": "TBC",
-            "wins": 0,
-            "losses": 0,
-            "result": "pending"
           }
         ],
         "notes": null,
