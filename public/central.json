@@ -1069,8 +1069,8 @@
           {
             "round": "R2",
             "opponent": "MIN",
-            "wins": 2,
-            "losses": 0,
+            "wins": 3,
+            "losses": 1,
             "result": "pending"
           }
         ],
@@ -2056,8 +2056,8 @@
           {
             "round": "R2",
             "opponent": "COL",
-            "wins": 0,
-            "losses": 2,
+            "wins": 1,
+            "losses": 3,
             "result": "pending"
           }
         ],
