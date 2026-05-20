@@ -1676,9 +1676,9 @@
           {
             "round": "R2",
             "opponent": "MTL",
-            "wins": 2,
-            "losses": 2,
-            "result": "pending"
+            "wins": 3,
+            "losses": 4,
+            "result": "loss"
           }
         ],
         "notes": null,
@@ -2045,7 +2045,7 @@
       "primaryColor": "#AF1E2D",
       "secondaryColor": "#192168",
       "accentColor": "#FFFFFF",
-      "seriesWins": 10
+      "seriesWins": 11
     },
     "seasons": [
       {
@@ -2381,8 +2381,15 @@
           {
             "round": "R2",
             "opponent": "BUF",
-            "wins": 2,
-            "losses": 2,
+            "wins": 4,
+            "losses": 3,
+            "result": "win"
+          },
+          {
+            "round": "R2",
+            "opponent": "CAR",
+            "wins": 0,
+            "losses": 0,
             "result": "pending"
           }
         ],

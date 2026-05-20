@@ -732,7 +732,7 @@
       "primaryColor": "#B4975A",
       "secondaryColor": "#333F42",
       "accentColor": "#FFFFFF",
-      "seriesWins": 13
+      "seriesWins": 14
     },
     "seasons": [
       {
@@ -946,8 +946,15 @@
           {
             "round": "R2",
             "opponent": "ANA",
-            "wins": 3,
+            "wins": 4,
             "losses": 2,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "COL",
+            "wins": 0,
+            "losses": 0,
             "result": "pending"
           }
         ],
@@ -2295,8 +2302,8 @@
             "round": "R2",
             "opponent": "VGK",
             "wins": 2,
-            "losses": 3,
-            "result": "pending"
+            "losses": 4,
+            "result": "loss"
           }
         ],
         "notes": null,

@@ -439,7 +439,7 @@
       "primaryColor": "#CC0000",
       "secondaryColor": "#000000",
       "accentColor": "#A2AAAD",
-      "seriesWins": 16
+      "seriesWins": 17
     },
     "seasons": [
       {
@@ -792,7 +792,7 @@
           },
           {
             "round": "CF",
-            "opponent": "TBC",
+            "opponent": "MTL",
             "wins": 0,
             "losses": 0,
             "result": "pending"
@@ -1909,6 +1909,8 @@
             "round": "R2",
             "opponent": "CAR",
             "wins": 0,
+            "losses": 4,
+            "result": "loss"
             "losses": 4,
             "result": "loss"
           }

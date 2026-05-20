@@ -733,7 +733,7 @@
       "primaryColor": "#6F263D",
       "secondaryColor": "#236192",
       "accentColor": "#FFFFFF",
-      "seriesWins": 11
+      "seriesWins": 12
     },
     "seasons": [
       {
@@ -1069,8 +1069,15 @@
           {
             "round": "R2",
             "opponent": "MIN",
-            "wins": 3,
+            "wins": 4,
             "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "VGK",
+            "wins": 0,
+            "losses": 0,
             "result": "pending"
           }
         ],
@@ -2057,8 +2064,8 @@
             "round": "R2",
             "opponent": "COL",
             "wins": 1,
-            "losses": 3,
-            "result": "pending"
+            "losses": 4,
+            "result": "loss"
           }
         ],
         "notes": null,
