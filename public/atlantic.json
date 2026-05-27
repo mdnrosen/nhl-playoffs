@@ -2386,10 +2386,10 @@
             "result": "win"
           },
           {
-            "round": "R2",
+            "round": "CF",
             "opponent": "CAR",
-            "wins": 0,
-            "losses": 0,
+            "wins": 1,
+            "losses": 2,
             "result": "pending"
           }
         ],

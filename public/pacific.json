@@ -732,7 +732,7 @@
       "primaryColor": "#B4975A",
       "secondaryColor": "#333F42",
       "accentColor": "#FFFFFF",
-      "seriesWins": 14
+      "seriesWins": 15
     },
     "seasons": [
       {
@@ -953,6 +953,20 @@
           {
             "round": "CF",
             "opponent": "COL",
+            "wins": 4,
+            "losses": 0,
+            "result": "win"
+          },
+          {
+            "round": "CF",
+            "opponent": "COL",
+            "wins": 4,
+            "losses": 0,
+            "result": "win"
+          },
+          {
+            "round": "F",
+            "opponent": "TBC",
             "wins": 0,
             "losses": 0,
             "result": "pending"
