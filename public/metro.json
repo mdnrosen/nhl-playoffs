@@ -793,8 +793,15 @@
           {
             "round": "CF",
             "opponent": "MTL",
-            "wins": 2,
+            "wins": 4,
             "losses": 1,
+            "result": "win"
+          },
+          {
+            "round": "F",
+            "opponent": "VGK",
+            "wins": 0,
+            "losses": 0,
             "result": "pending"
           }
         ],
